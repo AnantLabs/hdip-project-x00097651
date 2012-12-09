@@ -1,7 +1,7 @@
 Landlord Web Application Iteration  1 Version 1
 
 
-An outline of functionality achieved in Version 1
+= An outline of functionality achieved in Version 1=
 
 = Details =
 
