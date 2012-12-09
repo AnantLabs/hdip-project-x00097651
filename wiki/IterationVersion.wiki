@@ -1,9 +1,9 @@
 #sidebar toc
-Landlord Web Application Iteration  1 Version 1
+== Landlord Web Application Iteration  1 Version 1.0 ==
 
 
-= An outline of functionality achieved in Version 1=
+= An outline of functionality achieved in Version 1.0 =
 
 == Details ==
 
-Creation of Main classes 
+1. Creation of Main classes 
