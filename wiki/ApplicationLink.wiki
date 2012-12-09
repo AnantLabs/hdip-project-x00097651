@@ -1,7 +1,6 @@
 #sidebar toc
 
-
+Right click on the link below and select 'Open in New Window' to open the application
 
  
 _[http://168.63.27.252/ Landlord Web Application]_
-
