@@ -1,9 +1,15 @@
 #sidebar toc
-= Landlord Web Application Iteration 1 Ver 1.0 =
+= Landlord Web Application Iteration 1 =
+
+= Ver 1.1 =
 
 
-== An outline of functionality achieved in Version 1.0 ==
+== An outline of functionality achieved in Version 1.1 ==
 
 == Details ==
 
-1. Creation of Main classes 
+=== 1. Allows CRUD on Tenancies. ===
+
+=== 2. Allows CRUD on Tenant. ===
+
+=== 3. Allows CRUD on Properties. ===
