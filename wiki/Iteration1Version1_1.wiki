@@ -16,6 +16,6 @@
 
 === 4. Home page. ===
 
-=== 5. Creation of an Azure Table to store data ===
+=== 5. Creation of an Azure Table to store data. ===
 
-=== 6. Editing, retrieval and display of Table data ===
+=== 6. Creation, retrieval, editing and display of Table data. ===
