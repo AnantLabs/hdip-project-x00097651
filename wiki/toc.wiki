@@ -3,26 +3,4 @@
 [Iteration1Version1_2 LandlordApp Ver 1.2]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[http://168.63.27.252/ Link to Landlord Web Application]
+[http://168.63.27.252/ Landlord Web Application]
