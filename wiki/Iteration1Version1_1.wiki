@@ -8,8 +8,14 @@
 
 == Details ==
 
-=== 1. Allows CRUD on Tenancies. ===
+=== 1. Page to allow CRUD on Tenancies. ===
 
-=== 2. Allows CRUD on Tenant. ===
+=== 2. Page to allow CRUD on Tenant. ===
 
-=== 3. Allows CRUD on Properties. ===
+=== 3. Page to allow CRUD on Properties. ===
+
+=== 4. Home page. ===
+ 
+=== 5. Creation of an Azure Table to store data ===
+
+=== 6. Editing, retrieval and display of Table data ===
