@@ -2,5 +2,3 @@
 
 [Iteration1Version1_2 LandlordApp Ver 1.2]
 
-
-[ApplicationLink Landlord Web Application]
