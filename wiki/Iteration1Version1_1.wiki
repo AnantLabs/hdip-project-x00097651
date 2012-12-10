@@ -4,9 +4,9 @@
 = Ver 1.1 =
 
 
-== An outline of functionality achieved in Version 1.1 ==
+== Details of functionality achieved in Version 1.1 ==
 
-== Details ==
+==  ==
 
 === 1. Page to allow CRUD on Tenancies. ===
 
