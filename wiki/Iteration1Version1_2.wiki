@@ -1,9 +1,7 @@
 #sidebar toc
-= Landlord Web Application Iteration 1 =
+== Landlord Web Application Iteration 1 ==
 
-= Ver 1.2 =
+== Ver 1.2 ==
 
 
-== Details of functionality achieved in Version 1.2 ==
-
-==  ==
+=== Details of functionality implemented in Version 1.2 ===
