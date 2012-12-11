@@ -4,4 +4,4 @@
 == Ver 1.2 ==
 
 
-=== Details of functionality implemented in Version 1.2 ===
+=== Functionality / Features added in Version 1.2 ===
