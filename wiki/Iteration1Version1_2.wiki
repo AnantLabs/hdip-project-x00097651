@@ -4,18 +4,6 @@
 = Ver 1.2 =
 
 
-== An outline of functionality achieved in Version 1.2 ==
+== Details of functionality achieved in Version 1.2 ==
 
-== Details ==
-
-=== 1. ===
-
-=== 2.  ===
-
-=== 3.  ===
-
-=== 4.  ===
-
-=== 5.  ===
-
-=== 6. . ===
+==  ==
