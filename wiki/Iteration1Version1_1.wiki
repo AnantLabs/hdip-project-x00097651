@@ -4,11 +4,11 @@
 = Ver 1.1 =
 
 
-== Details of functionality achieved in Version 1.1 ==
+== Details of functionality implemented in Version 1.1 ==
 
 ==  ==
 
-=== 1. Page to allow CRUD on Tenancies. ===
+ 1. Page to allow CRUD on Tenancies. 
 
 === 2. Page to allow CRUD on Tenant. ===
 
