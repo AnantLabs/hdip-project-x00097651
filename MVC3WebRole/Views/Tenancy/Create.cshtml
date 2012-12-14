@@ -1,0 +1,81 @@
+﻿@model MVC3WebRole.Models.Tenancy
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Tenancy</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Enter Tenancy Details</legend>
+         <div class="editor-field"> 
+            @Html.EditorFor(model => model.tenancyId)
+            @Html.ValidationMessageFor(model => model.tenancyId)
+            @Html.LabelFor(model => model.tenancyId)
+        </div>
+        
+        <div class="editor-field"> 
+            @Html.EditorFor(model => model.rentalPropId)
+            @Html.ValidationMessageFor(model => model.rentalPropId)
+            @Html.LabelFor(model => model.rentalPropId)
+        </div>
+
+       
+        <div class="editor-field">
+            @Html.EditorFor(model => model.startDate)
+            @Html.ValidationMessageFor(model => model.startDate)
+            @Html.LabelFor(model => model.startDate)
+        </div>
+      
+        <div class="editor-field">
+           @Html.EditorFor(model => model.endDate)
+            @Html.ValidationMessageFor(model => model.endDate)
+            @Html.LabelFor(model => model.endDate)
+
+        </div>
+
+        <div class="editor-field">
+           @Html.EditorFor(model => model.rent)
+            @Html.ValidationMessageFor(model => model.rent)
+            @Html.LabelFor(model => model.rent)
+        </div>
+
+
+        @*<div class="editor-label">
+            @Html.LabelFor(model => model.Timestamp)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Timestamp)
+            @Html.ValidationMessageFor(model => model.Timestamp)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PartitionKey)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PartitionKey)
+            @Html.ValidationMessageFor(model => model.PartitionKey)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RowKey)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RowKey)
+            @Html.ValidationMessageFor(model => model.RowKey)
+        </div>*@
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

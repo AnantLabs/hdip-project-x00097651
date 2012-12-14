@@ -1,0 +1,152 @@
+G:\AzureApp\MVC3WebRole\bin\MVC3WebRole.dll
+G:\AzureApp\MVC3WebRole\bin\MVC3WebRole.pdb
+G:\AzureApp\MVC3WebRole\bin\EntityFramework.dll
+G:\AzureApp\MVC3WebRole\bin\Microsoft.Web.Infrastructure.dll
+G:\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+G:\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.Helpers.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.Mvc.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.Providers.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.Razor.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Deployment.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.WebPages.dll
+G:\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Razor.dll
+G:\AzureApp\MVC3WebRole\bin\EntityFramework.xml
+G:\AzureApp\MVC3WebRole\bin\Microsoft.Web.Infrastructure.xml
+G:\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+G:\AzureApp\MVC3WebRole\bin\System.Web.Mvc.xml
+G:\AzureApp\MVC3WebRole\bin\System.Web.Razor.xml
+G:\AzureApp\MVC3WebRole\bin\System.Web.WebPages.xml
+G:\AzureApp\MVC3WebRole\bin\System.Web.Helpers.xml
+G:\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Deployment.xml
+G:\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Razor.xml
+G:\AzureApp\MVC3WebRole\obj\Debug\ResolveAssemblyReference.cache
+G:\AzureApp\MVC3WebRole\obj\Debug\MVC3WebRole.dll
+G:\AzureApp\MVC3WebRole\obj\Debug\MVC3WebRole.pdb
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\MVC3WebRole.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\MVC3WebRole.pdb
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\EntityFramework.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\Microsoft.Web.Infrastructure.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Helpers.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Mvc.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Providers.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Razor.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Deployment.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.WebPages.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Razor.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\EntityFramework.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\Microsoft.Web.Infrastructure.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Mvc.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Razor.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.WebPages.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.Helpers.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Deployment.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\bin\System.Web.WebPages.Razor.xml
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\obj\Debug\ResolveAssemblyReference.cache
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\obj\Debug\MVC3WebRole.dll
+\\COMPHOME\homedir$\x00097651\Desktop\AzureApp\MVC3WebRole\obj\Debug\MVC3WebRole.pdb
+G:\AzureApp3\MVC3WebRole\bin\MVC3WebRole.dll
+G:\AzureApp3\MVC3WebRole\bin\MVC3WebRole.pdb
+G:\AzureApp3\MVC3WebRole\bin\EntityFramework.dll
+G:\AzureApp3\MVC3WebRole\bin\Microsoft.Web.Infrastructure.dll
+G:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+G:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Helpers.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Mvc.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Providers.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Razor.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Deployment.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.dll
+G:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Razor.dll
+G:\AzureApp3\MVC3WebRole\bin\EntityFramework.xml
+G:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Mvc.xml
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Razor.xml
+G:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.xml
+G:\AzureApp3\MVC3WebRole\bin\System.Web.Helpers.xml
+G:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Deployment.xml
+G:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Razor.xml
+G:\AzureApp3\MVC3WebRole\obj\Debug\ResolveAssemblyReference.cache
+G:\AzureApp3\MVC3WebRole\obj\Debug\MVC3WebRole.dll
+G:\AzureApp3\MVC3WebRole\obj\Debug\MVC3WebRole.pdb
+D:\AzureApp3\MVC3WebRole\bin\MVC3WebRole.dll
+D:\AzureApp3\MVC3WebRole\bin\MVC3WebRole.pdb
+D:\AzureApp3\MVC3WebRole\bin\EntityFramework.dll
+D:\AzureApp3\MVC3WebRole\bin\Microsoft.Web.Infrastructure.dll
+D:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Helpers.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Mvc.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Providers.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Razor.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Deployment.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.dll
+D:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Razor.dll
+D:\AzureApp3\MVC3WebRole\bin\EntityFramework.xml
+D:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Mvc.xml
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Razor.xml
+D:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.xml
+D:\AzureApp3\MVC3WebRole\bin\System.Web.Helpers.xml
+D:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Deployment.xml
+D:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Razor.xml
+D:\AzureApp3\MVC3WebRole\obj\Debug\ResolveAssemblyReference.cache
+D:\AzureApp3\MVC3WebRole\obj\Debug\MVC3WebRole.dll
+D:\AzureApp3\MVC3WebRole\obj\Debug\MVC3WebRole.pdb
+F:\AzureApp3\MVC3WebRole\bin\MVC3WebRole.dll
+F:\AzureApp3\MVC3WebRole\bin\MVC3WebRole.pdb
+F:\AzureApp3\MVC3WebRole\bin\EntityFramework.dll
+F:\AzureApp3\MVC3WebRole\bin\Microsoft.Web.Infrastructure.dll
+F:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+F:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Helpers.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Mvc.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Providers.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Razor.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Deployment.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.dll
+F:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Razor.dll
+F:\AzureApp3\MVC3WebRole\bin\EntityFramework.xml
+F:\AzureApp3\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Mvc.xml
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Razor.xml
+F:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.xml
+F:\AzureApp3\MVC3WebRole\bin\System.Web.Helpers.xml
+F:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Deployment.xml
+F:\AzureApp3\MVC3WebRole\bin\System.Web.WebPages.Razor.xml
+F:\AzureApp3\MVC3WebRole\obj\Debug\ResolveAssemblyReference.cache
+F:\AzureApp3\MVC3WebRole\obj\Debug\MVC3WebRole.dll
+F:\AzureApp3\MVC3WebRole\obj\Debug\MVC3WebRole.pdb
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\MVC3WebRole.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\MVC3WebRole.pdb
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\EntityFramework.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\Microsoft.Web.Infrastructure.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Helpers.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Mvc.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Providers.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Razor.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.WebPages.Deployment.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.WebPages.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.WebPages.Razor.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\EntityFramework.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Mvc.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Razor.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.WebPages.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.Helpers.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.WebPages.Deployment.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\bin\System.Web.WebPages.Razor.xml
+D:\LandLordApp Ver1.1\MVC3WebRole\obj\Debug\ResolveAssemblyReference.cache
+D:\LandLordApp Ver1.1\MVC3WebRole\obj\Debug\MVC3WebRole.dll
+D:\LandLordApp Ver1.1\MVC3WebRole\obj\Debug\MVC3WebRole.pdb
