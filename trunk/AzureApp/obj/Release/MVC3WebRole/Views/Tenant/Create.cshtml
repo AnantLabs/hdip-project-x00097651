@@ -1,0 +1,61 @@
+﻿@model MVC3WebRole.Models.Tenant
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Tenant</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Enter Tenant Details</legend>
+         <div class="editor-field"> 
+            @Html.EditorFor(model => model.tenancyId)
+            @Html.ValidationMessageFor(model => model.tenancyId)
+            @Html.LabelFor(model => model.tenancyId)
+        </div>
+        
+        <div class="editor-field"> 
+            @Html.EditorFor(model => model.tenantName)
+            @Html.ValidationMessageFor(model => model.tenantName)
+            @Html.LabelFor(model => model.tenantName)
+        </div>
+
+
+        @*<div class="editor-label">
+            @Html.LabelFor(model => model.Timestamp)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Timestamp)
+            @Html.ValidationMessageFor(model => model.Timestamp)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PartitionKey)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PartitionKey)
+            @Html.ValidationMessageFor(model => model.PartitionKey)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RowKey)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RowKey)
+            @Html.ValidationMessageFor(model => model.RowKey)
+        </div>*@
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

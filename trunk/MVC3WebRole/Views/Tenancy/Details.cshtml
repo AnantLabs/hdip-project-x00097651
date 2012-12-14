@@ -1,0 +1,57 @@
+﻿@model MVC3WebRole.Models.Tenancy
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Tenancy</h2>
+
+<fieldset>
+    <legend>Details</legend>
+
+      <div class="display-label">Tenancy</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.tenancyId)
+    </div>
+
+    <div class="display-label">Property</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.rentalPropId)
+    </div>
+
+     <div class="display-label">Start of Tenancy</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.startDate)
+    </div>
+      <div class="display-label">End of Tenancy</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.endDate)
+    </div>
+
+    <div class="display-label">Monthly Rent</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.rent)
+    </div>
+
+
+
+
+    @*<div class="display-label">Timestamp</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Timestamp)
+    </div>
+
+    <div class="display-label">PartitionKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PartitionKey)
+    </div>
+
+    <div class="display-label">RowKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RowKey)
+    </div>*@
+</fieldset>
+<p>
+   @* @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) *@|
+    @Html.ActionLink("Back to List", "Index")
+</p>
