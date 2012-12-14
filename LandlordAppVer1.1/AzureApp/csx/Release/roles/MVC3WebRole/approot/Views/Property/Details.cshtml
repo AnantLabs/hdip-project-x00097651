@@ -1,0 +1,54 @@
+﻿@model MVC3WebRole.Models.Property
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Property</h2>
+
+<fieldset>
+    <legend>Details</legend>
+
+     
+
+    <div class="display-label">Property</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.rentalPropId)
+    </div>
+
+     <div class="display-label">Address</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.address1)
+    </div>
+      <div class="display-label"> </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.address2)
+    </div>
+
+    <div class="display-label">Occupied</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.occupied)
+    </div>
+
+
+
+
+    @*<div class="display-label">Timestamp</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Timestamp)
+    </div>
+
+    <div class="display-label">PartitionKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PartitionKey)
+    </div>
+
+    <div class="display-label">RowKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RowKey)
+    </div>*@
+</fieldset>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", "Property") *@|
+    @Html.ActionLink("Back to List", "Index")
+</p>

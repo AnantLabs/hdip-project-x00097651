@@ -1,0 +1,77 @@
+﻿@model IEnumerable<MVC3WebRole.Models.Property>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of Properties</h2>
+
+<p>
+    @Html.ActionLink("Add a new Property", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+           Property Id
+        </th>
+        <th>
+           Address1
+        </th>
+        <th>
+           
+        </th>
+        <th>
+            Occupied
+        </th>
+        
+
+        @*<th>
+            Timestamp
+        </th>
+        <th>
+            PartitionKey
+        </th>
+        <th>
+            RowKey
+        </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.rentalPropId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.address1)
+        </td>
+         <td>
+            @Html.DisplayFor(modelItem => item.address2)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.occupied)
+        </td>
+
+
+
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Timestamp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PartitionKey)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RowKey)
+        </td>*@
+        <td>
+            @*We send PartitionKey and RowKey values as parameters in the URL*@
+            @Html.ActionLink("Edit", "Edit", new { PartitionKey = item.PartitionKey, RowKey = item.RowKey /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { PartitionKey = item.PartitionKey, RowKey = item.RowKey /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { PartitionKey = item.PartitionKey, RowKey = item.RowKey /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
