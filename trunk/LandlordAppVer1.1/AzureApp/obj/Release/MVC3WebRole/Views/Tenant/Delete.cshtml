@@ -1,0 +1,50 @@
+﻿@model MVC3WebRole.Models.Tenant
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Detail of Tenant about to be Deleted</legend>
+
+    <div class="display-label">Tenancy</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.tenancyId)
+    </div>
+
+    <div class="display-label">Tenant Name</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.tenantName)
+    </div>
+
+   
+
+
+
+   
+
+
+    @*<div class="display-label">Timestamp</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Timestamp)
+    </div>
+
+    <div class="display-label">PartitionKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PartitionKey)
+    </div>
+
+    <div class="display-label">RowKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RowKey)
+    </div>*@
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

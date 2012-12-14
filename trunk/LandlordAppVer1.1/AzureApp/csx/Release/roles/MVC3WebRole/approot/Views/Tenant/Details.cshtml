@@ -1,0 +1,42 @@
+﻿@model MVC3WebRole.Models.Tenant
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Tenancy</h2>
+
+<fieldset>
+    <legend>Details</legend>
+
+      <div class="display-label">Tenancy</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.tenancyId)
+    </div>
+
+    <div class="display-label">Name</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.tenantName)
+    </div>
+
+     
+
+    @*<div class="display-label">Timestamp</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Timestamp)
+    </div>
+
+    <div class="display-label">PartitionKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PartitionKey)
+    </div>
+
+    <div class="display-label">RowKey</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RowKey)
+    </div>*@
+</fieldset>
+<p>
+   @* @Html.ActionLink("Edit", "Edit") |*@
+    @Html.ActionLink("Back to List", "Index")
+</p>
