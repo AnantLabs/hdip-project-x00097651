@@ -1,0 +1,18 @@
+## Landlord Web Application Iteration 1 ##
+
+## Ver 1.1 ##
+
+
+### Details of functionality implemented in Version 1.1 ###
+
+1. Page to allow CRUD on Tenancies.
+
+2. Page to allow CRUD on Tenant.
+
+3. Page to allow CRUD on Properties.
+
+4. Home page.
+
+5. Creation of an Azure Table to store data.
+
+6. Creation, retrieval, editing and display of Table data.

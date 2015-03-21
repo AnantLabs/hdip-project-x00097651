@@ -1,0 +1,1 @@
+Landlord Web Application provides users with a cloud-based utility to help in the management of Rental-Properties
